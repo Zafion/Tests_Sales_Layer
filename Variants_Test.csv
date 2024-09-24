@@ -1,18 +1,18 @@
 variant_reference,Estado,product_reference,Etiquetas,size,price,color:es,color:en
-0042VAR1,Draft,42PM747120042,,S,4,"Rojo, Marino, Blanco",
-0042VAR2,Draft,42PM747120042,,M,4,"Azul marino, Blanco",
-0042VAR3,Draft,42PM747120042,,L,4,"Azul celeste, Blanco",
+0042VAR1,Draft,42PM747120042,,S,4,"Rojo, Marino, Blanco","Red, Navy, White"
+0042VAR2,Draft,42PM747120042,,M,4,"Azul marino, Blanco","Navy blue, White"
+0042VAR3,Draft,42PM747120042,,L,4,"Azul celeste, Blanco","Light blue, White"
 3006VAR1,Draft,AAPA10K703006,,S,4,Blanco,White
 3006VAR2,Draft,AAPA10K703006,,M,4,Negro,Black
 5221VAR1,Draft,42PH420305221,,XS,4,"Granate, Blanco","Burgundy, white"
 5221VAR2,Draft,42PH420305221,,S,4,"Azul, marrón, Blanco","Navy blue, brown, white"
 5221VAR3,Draft,42PH420305221,,M,4,"Verde, Naranja, Azul marino","Green, Orange, Navy Blue"
-5481VAR1,Draft,42PM204705481,,M,4,"Verde, Azul",
-5481VAR2,Draft,42PM204705481,,L,4,"Azul marino, Rojo",
-5481VAR3,Draft,42PM204705481,,XL,4,"Verde, Marino, Blanco",
-6012VAR1,Draft,42PM205106012,,XS,4,Camel,
-6012VAR2,Draft,42PM205106012,,S,4,Black,
-6012VAR3,Draft,42PM205106012,,M,4,"Navy blue, Grey",
+5481VAR1,Draft,42PM204705481,,M,4,"Verde, Azul","Green, Blue"
+5481VAR2,Draft,42PM204705481,,L,4,"Azul marino, Rojo","Navy blue, Red"
+5481VAR3,Draft,42PM204705481,,XL,4,"Verde, Marino, Blanco","Green, Navy, White"
+6012VAR1,Draft,42PM205106012,,XS,4,Camel,Camel
+6012VAR2,Draft,42PM205106012,,S,4,Black,Black
+6012VAR3,Draft,42PM205106012,,M,4,"Navy blue, Grey","Navy blue, Gray"
 6105VAR1,Draft,42PH740406105,,XS,4,"Azul, Naranja, Crudo","Blue, Orange, Raw"
 6105VAR2,Draft,42PH740406105,,S,4,"Azul, Naranja, Blanco","Blue, Orange, White"
 6105VAR3,Draft,42PH740406105,,M,4,"Azul marino, Blanco","Navy blue, white."
