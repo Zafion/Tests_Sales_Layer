@@ -19,17 +19,17 @@ INVI02,Invierno,Winter,MUJE01,Visible,Esto es una categoría. Test4,42pm02612010
 CHAQ02,Chaquetas,Jackets,INVI02,Visible,Esto es una categoría. Test4,42pm404100763_01.jpg,
 ACCE02,Accesorios,Accessories,INVI02,Visible,Esto es una categoría. Test4,aapa10yp02516_01.jpg,
 C0601,Categoria06,Category06,,Visible,Esto es una categoría. Test4,logo-Swarovski.png,B
-C0701,Categoria07,Category07,c06,Visible,Esto es una categoría. Test4,logo-Cartier.png,B
-C0801,Categoria08,Category08,c06,Visible,Esto es una categoría. Test4,logo-Dolce-and-Gabbana.png,B
-C0901,Categoria09,Category09,c06,Visible,Esto es una categoría. Test4,logo-Carolina-Herrer.png,B
-C1001,Categoria10,Category10,c06,Visible,Esto es una categoría. Test4,Logo-Prada.png,B
-TST01,Test01,Test01,,Visible,Esto es una categoría. Test4,Test_png.png,
-6271,6271,6271,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-NAST01,NAST01,NAST01,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-YOA01,ADULTO,ADULT,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+C0701,Categoria07,Category07,C0601,Visible,Esto es una categoría. Test4,logo-Cartier.png,B
+C0801,Categoria08,Category08,C0601,Visible,Esto es una categoría. Test4,logo-Dolce-and-Gabbana.png,B
+C0901,Categoria09,Category09,C0601,Visible,Esto es una categoría. Test4,logo-Carolina-Herrer.png,B
+C1001,Categoria10,Category10,C0601,Visible,Esto es una categoría. Test4,Logo-Prada.png,B
+TST01,Test01,Test01,,Draft,Esto es una categoría. Test4,Test_png.png,
+6271,6271,6271,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+NAST01,NAST01,NAST01,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+YOA01,ADULTO,ADULT,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 CER(YA)01,CERÁMICA (ADULTO),CERAMICS(ADULT),YOA01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 DRIWAR02,BEBIDAS,DRINKWARES,YOA01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-BTO01,BEBÉ,BABY,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+BTO01,BEBÉ,BABY,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 BTO/FDING01,BEBÉ/ALIMENTACIÓN,BABY/FEEDING,BTO01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 BTH_ITEMS02,ARTÍCULOS DE BAÑO,BATHROOM ITEMS,BTO01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 GEN_BTO03,BEBÉ GENÉRICO,GENERIC BABY,BTO01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
@@ -42,12 +42,12 @@ TDLER/FDING05,NIÑO PEQUEÑO/ALIMENTACIÓN,TODDLER/FEEDING,BTO01,Visible,Esto es
 N_LGT_CUPS01,NUEVAS TAZAS LIGERA,NEW LIGHT CUPS,TDLER/FDING05,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 TBLE_WRE02,VAJILLA,TABLEWARE,TDLER/FDING05,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 TRNERS03,ZAPATOS DE DEPORTE,TRAINERS,TDLER/FDING05,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-CER01,GAMA CERÁMICA,CERAMIC RANGE,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+CER01,GAMA CERÁMICA,CERAMIC RANGE,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 GFTING01,REGALAR,GIFTING,CER01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 CER(GFTING) 01,CERÁMICO,CERAMIC,GFTING01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 DLMITE02,DOLOMITA,DOLOMITE,GFTING01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-HOS01,HOSTELERIA,HOSTELERIA,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-KID01,NIÑOS,KIDS,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+HOS01,HOSTELERIA,HOSTELERIA,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+KID01,NIÑOS,KIDS,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 3D_RGE01,GAMA 3D,3D RANGE,KID01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 BTH_ITEMS(KID)02,ARTÍCULOS DE BAÑO NIÑOS,BATHROOM ITEMS KIDS,KID01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 CHRCTER RAGE03,RANGO DE CARACTERES,CHARACTER RANGE,KID01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
@@ -62,7 +62,7 @@ NW DLY USE RAGE10,NUEVA GAMA DE USO DIARIO,NEW DAILY USE RANGE,KID01,Visible,Est
 NEW LUNCH BAGS & BTS SETS11,NUEVAS BOLSAS DE ALMUERZO Y JUEGOS DE BTS,NEW LUNCH BAGS & BTS SETS,KID01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 NW WPE CLN TBLECLOTH12,NUEVO MANTEL QUE SE LIMPIA CON UN TOALLITO,NEW WIPE CLEAN TABLECLOTH,KID01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 TBLEWARE RAGE13,GAMA DE Vajilla,TABLEWARE RANGE,KID01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-QUO01,QUOKKA,QUOKKA,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+QUO01,QUOKKA,QUOKKA,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 ICE01,HIELO,ICE,QUO01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 L_SIZE (I)01,TAMAÑO GRANDE (HIELO),LARGE SIZE (ICE),ICE01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 M_SIZE (I)02,TAMAÑO MEDIANO (HIELO),MEDIUM SIZE (ICE),ICE01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
@@ -77,7 +77,7 @@ S_SIZE (S)02,TAMAÑO PEQUEÑO (SÓLIDO),SMALL SIZE (SOLID),SOLID04,Visible,Esto 
 SPLASH05,CHAPOTEO,SPLASH,QUO01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 SPRING06,PRIMAVERA,SPRING,QUO01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 SWEAT07,SUDOR,SWEAT,QUO01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
-STR01,ALMACENAMIENTO,STORAGE,,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
+STR01,ALMACENAMIENTO,STORAGE,,Draft,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 CLA_STR_RAGE01,GAMA DE ALMACENAMIENTO CLÁSICO,CLASSIC STORAGE RANGE,STR01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 G_STR02,ALMACENAMIENTO GENÉRICO,GENERIC STORAGE,STR01,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
 NW_STR_RAGE (GS)01,NUEVA GAMA DE ALMACENAMIENTO (ALMACENAMIENTO GENÉRICO),NEW STORAGE RANGE (GENERIC STORAGE),G_STR02,Visible,Esto es una categoría. Test4,test_pizarra.jpg.jpg,
