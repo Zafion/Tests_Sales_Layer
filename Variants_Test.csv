@@ -1,36 +1,36 @@
 variant_reference,Estado,product_reference,Etiquetas,size,price,color:es,color:en
-0042VAR1,Visible,42PM747120042,,S,25,"Rojo, Marino, Blanco","Red, Navy, White"
-0042VAR2,Visible,42PM747120042,,M,14,"Azul marino, Blanco","Navy blue, White"
-0042VAR3,Visible,42PM747120042,,L,12,"Azul celeste, Blanco","Light blue, White"
-3006VAR1,Visible,AAPA10K703006,,S,19,Blanco,White
-3006VAR2,Visible,AAPA10K703006,,M,11,Negro,Black
-5221VAR1,Visible,42PH420305221,,XS,10,"Granate, Blanco","Burgundy, white"
-5221VAR2,Visible,42PH420305221,,S,12,"Azul, marrón, Blanco","Navy blue, brown, white"
-5221VAR3,Visible,42PH420305221,,M,8,"Verde, Naranja, Azul marino","Green, Orange, Navy Blue"
-5481VAR1,Visible,42PM204705481,,M,19,"Verde, Azul","Green, Blue"
-5481VAR2,Visible,42PM204705481,,L,12,"Azul marino, Rojo","Navy blue, Red"
-5481VAR3,Visible,42PM204705481,,XL,13,"Verde, Marino, Blanco","Green, Navy, White"
-6012VAR1,Visible,42PM205106012,,XS,21,Camel,Camel
-6012VAR2,Visible,42PM205106012,,S,16,Black,Black
-6012VAR3,Visible,42PM205106012,,M,17,"Navy blue, Grey","Navy blue, Gray"
-6105VAR1,Visible,42PH740406105,,XS,25,"Azul, Naranja, Crudo","Blue, Orange, Raw"
-6105VAR2,Visible,42PH740406105,,S,10,"Azul, Naranja, Blanco","Blue, Orange, White"
-6105VAR3,Visible,42PH740406105,,M,9,"Azul marino, Blanco","Navy blue, white."
-5481VAR1,Visible,42PM205305481,,S,9,"Rojo, Marino, Blanco","Red, Navy, White"
-5481VAR2,Visible,42PM205305481,,M,25,"Azul marino, Blanco","Navy blue, White"
-5481VAR3,Visible,42PM205305481,,L,25,"Azul celeste, Blanco","Light blue, White"
-0241VAR1,Visible,42PM206320241,,S,8,Blanco,White
-0241VAR2,Visible,42PM206320241,,M,15,Negro,Black
-0241VAR3,Visible,42PM206320241,,XS,15,"Granate, Blanco","Burgundy, white"
-0211VAR1,Visible,42PM206520211,,S,25,"Azul, marrón, Blanco","Navy blue, brown, white"
-0211VAR2,Visible,42PM206520211,,M,15,"Verde, Naranja, Azul marino","Green, Orange, Navy Blue"
-0211VAR3,Visible,42PM206520211,,M,24,"Verde, Azul","Green, Blue"
-0011VAR1,Visible,42PM206720011,,L,9,"Azul marino, Rojo","Navy blue, Red"
-0011VAR2,Visible,42PM206720011,,XL,15,"Verde, Marino, Blanco","Green, Navy, White"
-0011VAR3,Visible,42PM206720011,,XS,16,Camel,Camel
-5291VAR1,Visible,42PM213505291,,S,13,Black,Black
-5291VAR2,Visible,42PM213505291,,M,20,"Navy blue, Grey","Navy blue, Gray"
-5291VAR3,Visible,42PM213505291,,XS,16,"Azul, Naranja, Crudo","Blue, Orange, Raw"
-5071VAR1,Visible,42PM213705071,,S,25,"Azul, Naranja, Blanco","Blue, Orange, White"
-5071VAR2,Visible,42PM213705071,,M,8,"Azul marino, Blanco","Navy blue, white."
-5071VAR3,Visible,42PM213705071,,S,18,"Rojo, Marino, Blanco","Red, Navy, White"
+0042VAR1,Visible,42PM747120042,,S,91,"Rojo, Marino, Blanco","Red, Navy, White"
+0042VAR2,Visible,42PM747120042,,M,84,"Azul marino, Blanco","Navy blue, White"
+0042VAR3,Visible,42PM747120042,,L,22,"Azul celeste, Blanco","Light blue, White"
+3006VAR1,Visible,AAPA10K703006,,S,12,Blanco,White
+3006VAR2,Visible,AAPA10K703006,,M,53,Negro,Black
+5221VAR1,Visible,42PH420305221,,XS,54,"Granate, Blanco","Burgundy, white"
+5221VAR2,Visible,42PH420305221,,S,83,"Azul, marrón, Blanco","Navy blue, brown, white"
+5221VAR3,Visible,42PH420305221,,M,13,"Verde, Naranja, Azul marino","Green, Orange, Navy Blue"
+5481VAR1,Visible,42PM204705481,,M,26,"Verde, Azul","Green, Blue"
+5481VAR2,Visible,42PM204705481,,L,67,"Azul marino, Rojo","Navy blue, Red"
+5481VAR3,Visible,42PM204705481,,XL,26,"Verde, Marino, Blanco","Green, Navy, White"
+6012VAR1,Visible,42PM205106012,,XS,60,Camel,Camel
+6012VAR2,Visible,42PM205106012,,S,85,Black,Black
+6012VAR3,Visible,42PM205106012,,M,52,"Navy blue, Grey","Navy blue, Gray"
+6105VAR1,Visible,42PH740406105,,XS,96,"Azul, Naranja, Crudo","Blue, Orange, Raw"
+6105VAR2,Visible,42PH740406105,,S,24,"Azul, Naranja, Blanco","Blue, Orange, White"
+6105VAR3,Visible,42PH740406105,,M,24,"Azul marino, Blanco","Navy blue, white."
+5481VAR1,Visible,42PM205305481,,S,58,"Rojo, Marino, Blanco","Red, Navy, White"
+5481VAR2,Visible,42PM205305481,,M,55,"Azul marino, Blanco","Navy blue, White"
+5481VAR3,Visible,42PM205305481,,L,33,"Azul celeste, Blanco","Light blue, White"
+0241VAR1,Visible,42PM206320241,,S,38,Blanco,White
+0241VAR2,Visible,42PM206320241,,M,72,Negro,Black
+0241VAR3,Visible,42PM206320241,,XS,75,"Granate, Blanco","Burgundy, white"
+0211VAR1,Visible,42PM206520211,,S,61,"Azul, marrón, Blanco","Navy blue, brown, white"
+0211VAR2,Visible,42PM206520211,,M,91,"Verde, Naranja, Azul marino","Green, Orange, Navy Blue"
+0211VAR3,Visible,42PM206520211,,M,32,"Verde, Azul","Green, Blue"
+0011VAR1,Visible,42PM206720011,,L,10,"Azul marino, Rojo","Navy blue, Red"
+0011VAR2,Visible,42PM206720011,,XL,12,"Verde, Marino, Blanco","Green, Navy, White"
+0011VAR3,Visible,42PM206720011,,XS,53,Camel,Camel
+5291VAR1,Visible,42PM213505291,,S,99,Black,Black
+5291VAR2,Visible,42PM213505291,,M,85,"Navy blue, Grey","Navy blue, Gray"
+5291VAR3,Visible,42PM213505291,,XS,87,"Azul, Naranja, Crudo","Blue, Orange, Raw"
+5071VAR1,Visible,42PM213705071,,S,39,"Azul, Naranja, Blanco","Blue, Orange, White"
+5071VAR2,Visible,42PM213705071,,M,86,"Azul marino, Blanco","Navy blue, white."
+5071VAR3,Visible,42PM213705071,,S,83,"Rojo, Marino, Blanco","Red, Navy, White"
