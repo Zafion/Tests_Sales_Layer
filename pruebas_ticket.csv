@@ -1,2 +1,2 @@
 codigo distribuidor;product description
-AAPA10K703006_Prueba_Lejarazu;Ha funcionado con la fórmula REPLACE_FROM_TABLE({Product reference}, "products", "Sku distribuidor", "Product reference")
+AAPA10K703006_Prueba_Lejarazu;Ha funcionado con la fórmula REPLACE_FROM_TABLE({Product reference}, "products", "Sku distribuidor", "Product reference") activando "solo actualizar items existentes 
