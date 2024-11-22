@@ -1,2 +1,2 @@
-codigo distribuidor;Unidades;Tarifa;Descuento Comercial;EAN;Nombre Producto;Estado1; Estado2
+codigo distribuidor;Unidades;Tarifa;Descuento Comercial;EAN;Nombre Producto;Estado1;Estado2
 040-284201493;1;1700,00;37;8053670261747;REPLACE_FROM_TABLE({Product reference}, "products", "Sku distribuidor", "Product reference");;
