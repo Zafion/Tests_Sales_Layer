@@ -1,2 +1,3 @@
-"""Código artículo""";"""Imagen auto""";"""Característica 1""";"""Característica 2""";"""Característica 3""";"""Característica 4""";"""Característica 5""";"""Característica 6""";"""Característica 7""";"""Característica 8""";"""Característica 9""";"""Característica 10""";Descuentos_auto;"""Variants status"""
-1000123485;1000123485_01.jpg;Medida;AENOR;Color;Normativa;;;;;;;MP5_test;Visible
+﻿"""Código artículo""","""Imagen auto""","""Característica 1""","""Característica 2""","""Característica 3""","""Característica 4""","""Característica 5""","""Característica 6""","""Característica 7""","""Característica 8""","""Característica 9""","""Característica 10""",Descuentos_auto,"""Variants status"""
+1000123485,1000123485_01.jpg,prueba1,prueba2,prueba3,prueba4,prueba5,prueba6,prueba7,prueba8,prueba9,prueba10,MP5_test,Visible
+
